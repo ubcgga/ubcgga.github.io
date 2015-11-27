@@ -1,0 +1,19 @@
+# Site settings
+title: UBC GGA Webpage
+description: >
+  A place for geografriend resources.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ubcgga.github.io" # the base hostname & protocol for your site
+
+author:
+  fullname: UBC GGA
+  #googleplus: https://www.google.com/+MotaquillahMaddane
+  github: ubcgga
+  #twitter: electrik_frog
+  # disqus: your_disqus_username
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Build settings
+markdown: kramdown
