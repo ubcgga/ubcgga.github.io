@@ -1,7 +1,7 @@
 # Site settings
-title: UBC Geography Grads 
+title: UBC Geografriends Forever
 description: >
-  A place for geografriend resources.
+  Advice, resouces, tools, links, and everything in between to help get you navigate UBC geography grad program(me).
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ubcgga.github.io" # the base hostname & protocol for your site
