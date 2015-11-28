@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: admin
+  name: Admin
 
-- slug: tools
-  name: Tools
+- slug: advice
+  name: Advice
 
-- slug: productivity
-  name: Productivity
+- slug: resources
+  name: Resources
