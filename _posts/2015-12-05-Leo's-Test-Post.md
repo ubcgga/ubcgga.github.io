@@ -7,5 +7,5 @@ categories: [gga, resources,BlogTests]
 ---
 
 
-Did I do it Joey?  I made a new category for us to throw up garbage posts and test out the platform (BlogTests).  We can get rid of it though.  Just wanted somewhere for now.
-Also - how can we make a stronger physical/human crossover?  How would you respond to this question? Can you directly answer a post somehow?
+Did I do it Joey?  I want to make a new category for us to throw up garbage posts and test out the platform (BlogTests) How do we do it? 
+Also - how can we make a stronger physical/human crossover?  How would you respond to this question on the website - like... can you make comments on a post or something? Can you directly answer a post somehow?
