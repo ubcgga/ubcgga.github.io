@@ -3,7 +3,7 @@ layout: post
 title:  "Is it working?"
 subtitle: "Is it?"
 date:   2015-12-05 14:36:01
-categories: [Blog, gga, resources,All]
+categories: [blogtest, gga, resources,All]
 ---
 
 

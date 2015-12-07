@@ -12,3 +12,6 @@
 
 - slug: gga
   name: GGA Meetings
+
+- slug: blogtests
+  name: BlogTests
