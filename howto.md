@@ -29,14 +29,14 @@ Send <a href="mailto:joseph.lee@geog.ubc.ca">Joey</a> an email
 
 * Enter the repository:
 
-![](assets/img/repo001.png)
+![](../assets/images/repo001.png)
 
 * Of all the folders and things we see in there, what we're interested in is the ```_posts``` folder:
 
-![](assets/img/repo002.png)
+![](../assets/images/repo002.png)
 
 * Inside the ```_posts``` folder we have all of our posts (yes - very new concept). 
-![](assets/img/posts001.png)
+![](../assets/images/posts001.png)
 
 * Notice that each post is labeled as such: 
 
@@ -53,10 +53,10 @@ Send <a href="mailto:joseph.lee@geog.ubc.ca">Joey</a> an email
 * this is how we will name our posts :)
 
 * To add a file click ```New file```
-![](assets/img/posts002.png)
+![](../assets/images/posts002.png)
 
 * Now we can get taken to a new page where we can add our post:
-![](assets/img/posts003.png)
+![](../assets/images/posts003.png)
 
 * where it says: ```name your file...``` put your title as we described above
 * where it says ```edit new file``` we're going to put our post.
@@ -64,7 +64,7 @@ Send <a href="mailto:joseph.lee@geog.ubc.ca">Joey</a> an email
 ## The components of a post:
 
 * So we have our post:
-![](assets/img/posts004.png)
+![](../assets/images/posts004.png)
 
 * What absolutely needs to go into the top of the post is this - the "frontmatter":
 
@@ -83,14 +83,14 @@ Send <a href="mailto:joseph.lee@geog.ubc.ca">Joey</a> an email
 	* date:  the date/time when you posted in  ```YYYY-MM-DD 12:00:00```
 	* categories: the categories the post fits into ```separated by commas``` - here we have ```[gga, resources]```, but you might have ```[advice]``` or ```[tools, resources]```, etc.
 
-![](assets/img/posts005.png)
+![](../assets/images/posts005.png)
 
 * under the frontmatter, you can write whatever you'd like! 
 
 		I <3 geography
 
 ## LAST: ```commit new file``` and BOOM! see the magic at [ubc.github.io](http://ubcgga.github.io/)
-![](assets/img/posts006.png)
+![](../assets/images/posts006.png)
 
 
 <br>
@@ -107,11 +107,11 @@ Among the many things that markdown is great for - like taking notes, and even m
 Markdown is free and there are lots of nice markdown editors out there like:
 
 ### [Mou](http://25.io/mou/) for OSx
-![](http://25.io/mou/img/1.png)
+![](http://25.io/mou/images/1.png)
 
 
 ### and Windows
-![](http://www.markdownpad.com/img/markdownpad2.png)
+![](http://www.markdownpad.com/images/markdownpad2.png)
 [Markdown Pad](http://www.markdownpad.com/)
 
 ***
