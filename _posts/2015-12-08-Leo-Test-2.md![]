@@ -1,0 +1,9 @@
+  ---
+  layout: post
+  title:  "Leo Test 2"
+  subtitle: "It's a picture"
+  date:   YYYY-MM-DD 12:00:00
+  categories: [gga, resources]
+  ---   
+  
+  ![](https://www.google.ca/search?q=tree&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjSzfr11c3JAhUNwGMKHYcGD_UQ_AUIBygB&biw=1280&bih=619&dpr=1.5#imgrc=XioTyXPX0_bswM%3A)
