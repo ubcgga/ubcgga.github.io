@@ -42,7 +42,8 @@ Send <a href="mailto:joseph.lee@geog.ubc.ca">Joey</a> an email
 
 		YYYY-MM-DD-title-separated-by-dashes.md
 		
-	where:
+
+where:
 	
 	* **YYYY**: the year (e.g. 2015)
 	* **MM**: the month (e.g. 12)
