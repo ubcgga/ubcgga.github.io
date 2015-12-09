@@ -1,17 +1,17 @@
 - slug: admin
-  name: Admin
+  name: admin
 
 - slug: advice
-  name: Advice
+  name: advice
 
 - slug: resources
-  name: Resources
+  name: resources
 
 - slug: tools
   name: tools
 
 - slug: gga
-  name: GGA Meetings
+  name: gga
 
 - slug: blogtests
-  name: BlogTests
+  name: blogtests
