@@ -8,3 +8,4 @@ categories: [blogtest]
 
 Hello!
 
+![](https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg)
